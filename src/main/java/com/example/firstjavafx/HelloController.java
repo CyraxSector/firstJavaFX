@@ -26,7 +26,7 @@ public class HelloController {
 
     @FXML
     protected void onHelloButtonClick() {
-        loginText.setText("Click Me!");
+        loginText.setText("Enter!");
         welcomeText.setText("Welcome to JavaFX Application!");
     }
 
